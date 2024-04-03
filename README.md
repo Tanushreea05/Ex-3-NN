@@ -104,7 +104,8 @@ predict(w1,w2,test)
 ```
 
 <H3>Output:</H3>
-![nn exp 3 op1](https://github.com/Tanushreea05/Ex-3-NN/assets/138849166/4144a597-c7cc-40f4-8058-3c0a1ef13e47)
+
+![nn exp 3 op1](https://github.com/Tanushreea05/Ex-3-NN/assets/138849166/f2ab1559-9b97-42b8-ba89-546d32381531)
 
 ![nn exp 3 op 2](https://github.com/Tanushreea05/Ex-3-NN/assets/138849166/171995a0-27fd-46ef-8b19-a0b6ff840fbb)
 
